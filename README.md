@@ -31,5 +31,5 @@ Running the project:
        > cd todo_app 
        > python manage.py runserver
 
-    ##Setup Instructions
+    #### Setup Instructions
    
