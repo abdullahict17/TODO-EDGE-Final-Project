@@ -29,4 +29,7 @@ Running the project:
 3. runserver :
 
        > cd todo_app 
-       > python manage.py runserver  
+       > python manage.py runserver
+
+    ##Setup Instructions
+   
